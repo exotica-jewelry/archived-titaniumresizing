@@ -1,0 +1,320 @@
+# SOME DESCRIPTIVE TITLE.
+# This file is put in the public domain.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/wordpress-google-seo-"
+"positioner\n"
+"POT-Creation-Date: 2008-05-26 16:27+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: position_yourself.php:104 position_yourself.php:105
+msgid "Position Yourself"
+msgstr ""
+
+#: position_yourself.php:112 position_yourself.php:113
+msgid "Manage keywords"
+msgstr ""
+
+#: position_yourself.php:119 position_yourself.php:120
+msgid "Manage options"
+msgstr ""
+
+#: position_yourself.php:126 position_yourself.php:127
+msgid "Track positions"
+msgstr ""
+
+#: position_yourself.php:142
+msgid "Positioner"
+msgstr ""
+
+#: position_yourself.php:143 position_yourself.php:385
+msgid "Your keywords"
+msgstr ""
+
+#: position_yourself.php:212 position_yourself.php:301
+#: position_yourself.php:437
+msgid "You have not yet added any keywords."
+msgstr ""
+
+#: position_yourself.php:247
+#, php-format
+msgid ""
+"Your keywords have been successfully positioned! <a href=\"%s\">Click here "
+"for the detailed report.</a>"
+msgstr ""
+
+#: position_yourself.php:251
+msgid "Your keywords could not be positioned. Please try again."
+msgstr ""
+
+#: position_yourself.php:262
+#, php-format
+msgid ""
+"You can get the position of your website for your keywords by pressing <a "
+"href=\"%s\">Position me</a>. Afterwards you can view your detailed report "
+"under the <a href=\"%s\">Track positions</a> page."
+msgstr ""
+
+#: position_yourself.php:263 position_yourself.php:296
+#, php-format
+msgid "<a href=\"%s\" class=\"button\">Position me</a>"
+msgstr ""
+
+#: position_yourself.php:268 position_yourself.php:410
+#: position_yourself.php:728
+msgid "Keyword"
+msgstr ""
+
+#: position_yourself.php:269
+msgid "Last position"
+msgstr ""
+
+#: position_yourself.php:306 position_yourself.php:387
+#: position_yourself.php:441
+#, php-format
+msgid "<a href=\"%s\" class=\"button\">Modify keywords</a>"
+msgstr ""
+
+#: position_yourself.php:320
+msgid "Manage your keywords"
+msgstr ""
+
+#: position_yourself.php:337
+msgid "Save keywords &raquo;"
+msgstr ""
+
+#: position_yourself.php:339
+msgid "Keywords added."
+msgstr ""
+
+#: position_yourself.php:340
+msgid "Keywords deleted."
+msgstr ""
+
+#: position_yourself.php:341
+msgid "Keywords updated."
+msgstr ""
+
+#: position_yourself.php:342
+msgid "Keywords not added."
+msgstr ""
+
+#: position_yourself.php:343
+msgid "Keywords not updated."
+msgstr ""
+
+#: position_yourself.php:362
+msgid "Add your keywords"
+msgstr ""
+
+#: position_yourself.php:363
+msgid "Enter the keywords you want to track. Use a new line for each keyword."
+msgstr ""
+
+#: position_yourself.php:372
+msgid "Keywords"
+msgstr ""
+
+#: position_yourself.php:386
+#, php-format
+msgid ""
+"On this page you can <a href=\"%s\">modify</a> you keywords you want to "
+"track."
+msgstr ""
+
+#: position_yourself.php:456
+msgid "Manage Positioner Options"
+msgstr ""
+
+#: position_yourself.php:493
+msgid "Save options &raquo;"
+msgstr ""
+
+#: position_yourself.php:495
+msgid "Options added."
+msgstr ""
+
+#: position_yourself.php:496
+msgid "Options deleted."
+msgstr ""
+
+#: position_yourself.php:497
+msgid "Options updated."
+msgstr ""
+
+#: position_yourself.php:498
+msgid "Options not added."
+msgstr ""
+
+#: position_yourself.php:499
+msgid "Options not updated."
+msgstr ""
+
+#: position_yourself.php:507 position_yourself.php:604
+msgid "Google options"
+msgstr ""
+
+#: position_yourself.php:510 position_yourself.php:607
+#: position_yourself.php:777
+msgid "Region"
+msgstr ""
+
+#: position_yourself.php:514 position_yourself.php:611
+#: position_yourself.php:778
+msgid "Language"
+msgstr ""
+
+#: position_yourself.php:517
+msgid "Dutch"
+msgstr ""
+
+#: position_yourself.php:518
+msgid "French"
+msgstr ""
+
+#: position_yourself.php:519
+msgid "English"
+msgstr ""
+
+#: position_yourself.php:520
+msgid "German"
+msgstr ""
+
+#: position_yourself.php:521
+msgid "Italian"
+msgstr ""
+
+#: position_yourself.php:522
+msgid "Spanish"
+msgstr ""
+
+#: position_yourself.php:527 position_yourself.php:615
+msgid "Meta"
+msgstr ""
+
+#: position_yourself.php:531 position_yourself.php:619
+msgid "PageRank"
+msgstr ""
+
+#: position_yourself.php:534
+msgid "No"
+msgstr ""
+
+#: position_yourself.php:535
+msgid "Yes"
+msgstr ""
+
+#: position_yourself.php:537
+msgid "<strong>Notice:</strong> Enabling PageRank will take longer."
+msgstr ""
+
+#: position_yourself.php:541 position_yourself.php:623
+#: position_yourself.php:779
+msgid "Number of results"
+msgstr ""
+
+#: position_yourself.php:558 position_yourself.php:627
+msgid "Competitors"
+msgstr ""
+
+#: position_yourself.php:559
+msgid ""
+"<strong>Notice:</strong> To remove a competitor from the list, just leave "
+"the field empty and save the options."
+msgstr ""
+
+#: position_yourself.php:560
+msgid "Add competitor"
+msgstr ""
+
+#: position_yourself.php:579 position_yourself.php:588
+msgid "Competitor"
+msgstr ""
+
+#: position_yourself.php:602 position_yourself.php:658
+#, php-format
+msgid "<a href=\"%s\" class=\"button\">Modify options</a>"
+msgstr ""
+
+#: position_yourself.php:646
+#, php-format
+msgid "Competitor %s:"
+msgstr ""
+
+#: position_yourself.php:655
+msgid "You haven't added any competitors to track."
+msgstr ""
+
+#: position_yourself.php:673
+msgid "Keyword tracking"
+msgstr ""
+
+#: position_yourself.php:674
+msgid "Keep track of your keywords"
+msgstr ""
+
+#: position_yourself.php:693
+#, php-format
+msgid "Positioning found <span class=\"big\">%d</span> matches."
+msgstr ""
+
+#: position_yourself.php:699
+msgid "Started"
+msgstr ""
+
+#: position_yourself.php:703
+msgid "Ended"
+msgstr ""
+
+#: position_yourself.php:707
+msgid "Google Region"
+msgstr ""
+
+#: position_yourself.php:711
+msgid "Google Language"
+msgstr ""
+
+#: position_yourself.php:715
+msgid "Google Options"
+msgstr ""
+
+#: position_yourself.php:719
+msgid "Google Number of results"
+msgstr ""
+
+#: position_yourself.php:729
+msgid "Position"
+msgstr ""
+
+#: position_yourself.php:730
+msgid "Result page"
+msgstr ""
+
+#: position_yourself.php:775
+msgid "ID"
+msgstr ""
+
+#: position_yourself.php:776
+msgid "Date-Time"
+msgstr ""
+
+#: position_yourself.php:780
+msgid "Matches"
+msgstr ""
+
+#: position_yourself.php:823
+msgid "Get more information about this job."
+msgstr ""
+
+#: position_yourself.php:841
+msgid "No jobs have already ran."
+msgstr ""

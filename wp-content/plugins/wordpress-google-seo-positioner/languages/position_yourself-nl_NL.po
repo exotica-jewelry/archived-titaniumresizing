@@ -1,0 +1,335 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Position Yourself\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2008-05-26 18:19+0100\n"
+"PO-Revision-Date: 2008-05-26 18:25+0100\n"
+"Last-Translator: Kim KENNOF <kim.kennof@queromedia.com>\n"
+"Language-Team: QueroMedia SEO <kim.kennof@queromedia.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Dutch\n"
+"X-Poedit-Country: BELGIUM\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../position_yourself.php:104
+#: ../position_yourself.php:105
+msgid "Position Yourself"
+msgstr "Position Yourself"
+
+#: ../position_yourself.php:112
+#: ../position_yourself.php:113
+msgid "Manage keywords"
+msgstr "Beheer zoekwoorden"
+
+#: ../position_yourself.php:119
+#: ../position_yourself.php:120
+msgid "Manage options"
+msgstr "Beheer opties"
+
+#: ../position_yourself.php:126
+#: ../position_yourself.php:127
+msgid "Track positions"
+msgstr "Posities volgen"
+
+#: ../position_yourself.php:142
+msgid "Positioner"
+msgstr "Positioner"
+
+#: ../position_yourself.php:143
+#: ../position_yourself.php:385
+msgid "Your keywords"
+msgstr "Uw zoekwoorden"
+
+#: ../position_yourself.php:212
+#: ../position_yourself.php:301
+#: ../position_yourself.php:437
+msgid "You have not yet added any keywords."
+msgstr "U hebt nog geen zoekwoorden toegevoegd."
+
+#: ../position_yourself.php:247
+#, php-format
+msgid "Your keywords have been successfully positioned! <a href=\"%s\">Click here for the detailed report.</a>"
+msgstr "Uw zoekwoorden werden succesvol gepositioneerd. <a href=\"%s\">Klik hier voor het gedetailleerde rapport.</a>"
+
+#: ../position_yourself.php:251
+msgid "Your keywords could not be positioned. Please try again."
+msgstr " Uw zoekwoorden konden niet gepositioneerd worden. Gelieve opnieuw te proberen."
+
+#: ../position_yourself.php:262
+#, php-format
+msgid "You can get the position of your website for your keywords by pressing <a href=\"%s\">Position me</a>. Afterwards you can view your detailed report under the <a href=\"%s\">Track positions</a> page."
+msgstr "U kan de positie van uw website voor uw opgegeven zoekwoorden vinden door op <a href=\"%s\">Positioneer mij</a> te drukken. Achteraf kan u het gedetailleerde rapport via de <a href=\"%s\">Posities volgen</a> pagina bekijken."
+
+#: ../position_yourself.php:263
+#: ../position_yourself.php:296
+#, php-format
+msgid "<a href=\"%s\" class=\"button\">Position me</a>"
+msgstr "<a href=\"%s\" class=\"button\">Positioneer mij</a>"
+
+#: ../position_yourself.php:268
+#: ../position_yourself.php:410
+#: ../position_yourself.php:728
+msgid "Keyword"
+msgstr "Zoekwoord"
+
+#: ../position_yourself.php:269
+msgid "Last position"
+msgstr "Laatste positie"
+
+#: ../position_yourself.php:306
+#: ../position_yourself.php:387
+#: ../position_yourself.php:441
+#, php-format
+msgid "<a href=\"%s\" class=\"button\">Modify keywords</a>"
+msgstr "<a href=\"%s\" class=\"button\">Zoekwoorden wijzigen</a>"
+
+#: ../position_yourself.php:320
+msgid "Manage your keywords"
+msgstr "Beheer uw zoekwoorden"
+
+#: ../position_yourself.php:337
+msgid "Save keywords &raquo;"
+msgstr "Zoekwoorden opslaan &raquo;"
+
+#: ../position_yourself.php:339
+msgid "Keywords added."
+msgstr "Zoekwoorden toegevoegd."
+
+#: ../position_yourself.php:340
+msgid "Keywords deleted."
+msgstr "Zoekwoorden verwijderd."
+
+#: ../position_yourself.php:341
+msgid "Keywords updated."
+msgstr "Zoekwoorden gewijzigd."
+
+#: ../position_yourself.php:342
+msgid "Keywords not added."
+msgstr "Zoekwoorden niet toegevoegd."
+
+#: ../position_yourself.php:343
+msgid "Keywords not updated."
+msgstr "Zoekwoorden niet gewijzigd."
+
+#: ../position_yourself.php:362
+msgid "Add your keywords"
+msgstr "Voeg uw zoekwoorden toe"
+
+#: ../position_yourself.php:363
+msgid "Enter the keywords you want to track. Use a new line for each keyword."
+msgstr "Vul hier uw zoekwoorden in. Gebruik een nieuwe regel voor elk nieuw zoekwoord."
+
+#: ../position_yourself.php:372
+msgid "Keywords"
+msgstr "Zoekwoorden"
+
+#: ../position_yourself.php:386
+#, php-format
+msgid "On this page you can <a href=\"%s\">modify</a> you keywords you want to track."
+msgstr "Hier kan u uw zoekwoorden die u wenst te volgen <a href=\"%s\">wijzigen</a>."
+
+#: ../position_yourself.php:456
+msgid "Manage Positioner Options"
+msgstr "Beheer Positioner Opties"
+
+#: ../position_yourself.php:493
+msgid "Save options &raquo;"
+msgstr "Opties opslaan &raquo;"
+
+#: ../position_yourself.php:495
+msgid "Options added."
+msgstr "Opties gewijzigd."
+
+#: ../position_yourself.php:496
+msgid "Options deleted."
+msgstr "Opties verwijderd."
+
+#: ../position_yourself.php:497
+msgid "Options updated."
+msgstr "Opties gewijzigd."
+
+#: ../position_yourself.php:498
+msgid "Options not added."
+msgstr "Opties niet toegevoegd."
+
+#: ../position_yourself.php:499
+msgid "Options not updated."
+msgstr "Opties niet gewijzigd."
+
+#: ../position_yourself.php:507
+#: ../position_yourself.php:604
+msgid "Google options"
+msgstr "Google opties"
+
+#: ../position_yourself.php:510
+#: ../position_yourself.php:607
+#: ../position_yourself.php:777
+msgid "Region"
+msgstr "Regio"
+
+#: ../position_yourself.php:514
+#: ../position_yourself.php:611
+#: ../position_yourself.php:778
+msgid "Language"
+msgstr "Taal"
+
+#: ../position_yourself.php:517
+msgid "Dutch"
+msgstr "Nederlands"
+
+#: ../position_yourself.php:518
+msgid "French"
+msgstr "Frans"
+
+#: ../position_yourself.php:519
+msgid "English"
+msgstr "Engels"
+
+#: ../position_yourself.php:520
+msgid "German"
+msgstr "Duits"
+
+#: ../position_yourself.php:521
+msgid "Italian"
+msgstr "Italiaans"
+
+#: ../position_yourself.php:522
+msgid "Spanish"
+msgstr "Spaans"
+
+#: ../position_yourself.php:527
+#: ../position_yourself.php:615
+msgid "Meta"
+msgstr "Meta"
+
+#: ../position_yourself.php:531
+#: ../position_yourself.php:619
+msgid "PageRank"
+msgstr "PageRank"
+
+#: ../position_yourself.php:534
+msgid "No"
+msgstr "Nee"
+
+#: ../position_yourself.php:535
+msgid "Yes"
+msgstr "Ja"
+
+#: ../position_yourself.php:537
+msgid "<strong>Notice:</strong> Enabling PageRank will take longer."
+msgstr "<strong>Opgelet:</strong> Het inschakelen van PageRank kan de verwerkingstijd vergroten!"
+
+#: ../position_yourself.php:541
+#: ../position_yourself.php:623
+#: ../position_yourself.php:779
+msgid "Number of results"
+msgstr "Aantal resultaten"
+
+#: ../position_yourself.php:558
+#: ../position_yourself.php:627
+msgid "Competitors"
+msgstr "Concurrenten"
+
+#: ../position_yourself.php:559
+msgid "<strong>Notice:</strong> To remove a competitor from the list, just leave the field empty and save the options."
+msgstr "<strong>Opgelet:</strong> Om een concurrent te verwijderen laat u gewoon dit veld leeg, waarna u uw opties bewaart."
+
+#: ../position_yourself.php:560
+msgid "Add competitor"
+msgstr "Voeg concurrent toe"
+
+#: ../position_yourself.php:579
+#: ../position_yourself.php:588
+msgid "Competitor"
+msgstr "Concurrent"
+
+#: ../position_yourself.php:602
+#: ../position_yourself.php:658
+#, php-format
+msgid "<a href=\"%s\" class=\"button\">Modify options</a>"
+msgstr "<a href=\"%s\" class=\"button\">Opties wijzigen</a>"
+
+#: ../position_yourself.php:646
+#, php-format
+msgid "Competitor %s:"
+msgstr "Concurrent %s:"
+
+#: ../position_yourself.php:655
+msgid "You haven't added any competitors to track."
+msgstr "U hebt nog geen concurrenten toegevoegd."
+
+#: ../position_yourself.php:673
+msgid "Keyword tracking"
+msgstr "Zoekwoord opvolging"
+
+#: ../position_yourself.php:674
+msgid "Keep track of your keywords"
+msgstr "Volg je zoekwoorden op"
+
+#: ../position_yourself.php:693
+#, php-format
+msgid "Positioning found <span class=\"big\">%d</span> matches."
+msgstr "Positionering heeft <span class=\"big\">%d</span> resultaten gevonden."
+
+#: ../position_yourself.php:699
+msgid "Started"
+msgstr "Gestart"
+
+#: ../position_yourself.php:703
+msgid "Ended"
+msgstr "Geeindigd"
+
+#: ../position_yourself.php:707
+msgid "Google Region"
+msgstr "Google Regio"
+
+#: ../position_yourself.php:711
+msgid "Google Language"
+msgstr "Google Taal"
+
+#: ../position_yourself.php:715
+msgid "Google Options"
+msgstr "Google Opties"
+
+#: ../position_yourself.php:719
+msgid "Google Number of results"
+msgstr "Google Aantal resultaten"
+
+#: ../position_yourself.php:729
+msgid "Position"
+msgstr "Positie"
+
+#: ../position_yourself.php:730
+msgid "Result page"
+msgstr "Resultaatpagina"
+
+#: ../position_yourself.php:775
+msgid "ID"
+msgstr "ID"
+
+#: ../position_yourself.php:776
+msgid "Date-Time"
+msgstr "Datum-Tijd"
+
+#: ../position_yourself.php:780
+msgid "Matches"
+msgstr "Overeenkomsten"
+
+#: ../position_yourself.php:823
+msgid "Get more information about this job."
+msgstr "Bekijk de details van deze job."
+
+#: ../position_yourself.php:841
+msgid "No jobs have already ran."
+msgstr "U hebt nog geen positionerings-jobs uitgevoerd."
+
+#~ msgid "You have not yet added any keywords!"
+#~ msgstr "U hebt nog geen zoekwoorden toegevoegd."
+#~ msgid "You haven't added any keywords yet!"
+#~ msgstr "U hebt nog geen zoektermen toegevoegd!"
+
